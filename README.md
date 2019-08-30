@@ -7,6 +7,12 @@
 入出力部分のフォーマット
 main関数で入力を受け付けてsolver関数でその値をゴニョゴニョする想定
 
+## 提出用ソースの出力
+
+```
+cat Main.java | pbcopy
+```
+
 ## グラフ理論
 
 ### Dijkstra.java
