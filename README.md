@@ -13,6 +13,13 @@ main関数で入力を受け付けてsolver関数でその値をゴニョゴニ�
 cat Main.java | pbcopy
 ```
 
+## 数論系
+
+### Math.java
+階乗、べき乗、組み合わせの高速計算アルゴリズム
+階乗は事前計算したものをそのまま持っているだけ
+利用前にかならずinitFactorial()を呼び出す
+
 ## グラフ理論
 
 ### Dijkstra.java
