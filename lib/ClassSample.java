@@ -10,7 +10,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        PriorityQueue<Myclass> pq = new PriorityQueue<Myclass>(new Comparator<MyClass() {
+        PriorityQueue<Myclass> pq = new PriorityQueue<Myclass>(new Comparator<MyClass>() {
             public int compare(Myclass a, Myclass b) {
                 return a.a-b.a;
             }
